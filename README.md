@@ -149,10 +149,6 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.0
 - [typescript](https://www.npmjs.com/package/typescript): ^5
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
 ## :rocket: Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
